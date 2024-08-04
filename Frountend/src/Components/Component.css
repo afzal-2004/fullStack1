@@ -1,0 +1,61 @@
+  label {
+      font-size: 20px;
+
+  }
+
+  section {
+      margin: 10px;
+      display: flex;
+      flex-direction: column;
+  }
+
+  input {
+      padding: 10px;
+      background-color: transparent;
+
+      font-size: 18px;
+
+      outline: none;
+      margin-top: 10px;
+  }
+
+  .FormContainer {
+      min-width: 350px;
+      min-height: 50vh;
+
+      background-color: white;
+      padding: 10px;
+      border-radius: 20px;
+
+  }
+
+  .Heading {
+      text-align: center;
+      font-size: 25px;
+  }
+
+  .btn {
+      background-color: aquamarine;
+      padding: 10px;
+      font-size: 18px;
+      width: 96%;
+      margin: 2%;
+      border-radius: 10px;
+  }
+
+  .btn:hover {
+      background-color: rgb(87, 228, 181);
+
+  }
+
+  .Execiteduser {
+      display: flex;
+      gap: 10px;
+      margin: 10px;
+      font-size: 20px;
+  }
+
+  .Loginoption {
+      color: rgb(104, 104, 197);
+      text-decoration: underline;
+  }
